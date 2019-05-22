@@ -16,19 +16,15 @@ img {
   margin-right: auto;
 }
 
-nav a {
-  text-align: center ;
-      padding:10px;
-    background-color: gray;
+nav {
+  text-align: center 
 }
 
-/*
 nav a {
     text-align: center;
     padding:10px;
     background-color: gray;
-
-} */
+}
 
 figcaption {
     text-align: center;
