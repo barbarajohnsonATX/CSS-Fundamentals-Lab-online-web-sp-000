@@ -16,11 +16,13 @@ img {
   margin-right: auto;
 }
 
-/*nav {
+nav {
   text-align: center 
-}*/
+      padding:10px;
+    background-color: gray;
+}
 
-nav > a {
+nav a {
     text-align: center;
     padding:10px;
     background-color: gray;
