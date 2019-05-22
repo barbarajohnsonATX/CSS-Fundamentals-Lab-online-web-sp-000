@@ -42,7 +42,11 @@ figcaption {
   display: block;
   float : left;
   background-color: red;
-  
+    box-sizing: border-box;
+  color: white;
+  margin: 0;
+  padding: 10px;
+  width: 25%;
 }
 
 p a {
