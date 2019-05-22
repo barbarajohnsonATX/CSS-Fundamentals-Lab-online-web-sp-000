@@ -43,7 +43,6 @@ figcaption {
   float : left;
   background-color: red;
     box-sizing: border-box;
-  color: white;
   padding: 10px;
   width: 25%;
 }
